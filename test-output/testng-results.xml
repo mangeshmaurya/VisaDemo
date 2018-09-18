@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="107739" started-at="2018-09-18T17:38:06Z" finished-at="2018-09-18T17:39:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="107739" started-at="2018-09-18T17:38:06Z" finished-at="2018-09-18T17:39:54Z">
+      <class name="com.visaguide.qa.test.VisaGuideTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="setup" is-config="true" duration-ms="49126" started-at="2018-09-18T23:08:06Z" finished-at="2018-09-18T23:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VisaFreeTest()[pri:1, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="VisaFreeTest" duration-ms="8093" started-at="2018-09-18T23:08:55Z" finished-at="2018-09-18T23:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisaFreeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="tearDown" is-config="true" duration-ms="1022" started-at="2018-09-18T23:09:03Z" finished-at="2018-09-18T23:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="setup" is-config="true" duration-ms="26657" started-at="2018-09-18T23:09:04Z" finished-at="2018-09-18T23:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VisaRequiredTest()[pri:2, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="VisaRequiredTest" duration-ms="4591" started-at="2018-09-18T23:09:31Z" finished-at="2018-09-18T23:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisaRequiredTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="tearDown" is-config="true" duration-ms="990" started-at="2018-09-18T23:09:36Z" finished-at="2018-09-18T23:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="setup" is-config="true" duration-ms="11639" started-at="2018-09-18T23:09:37Z" finished-at="2018-09-18T23:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VisaTestSameCountry()[pri:3, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="VisaTestSameCountry" duration-ms="4602" started-at="2018-09-18T23:09:48Z" finished-at="2018-09-18T23:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisaTestSameCountry -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.visaguide.qa.test.VisaGuideTest@59fa1d9b]" name="tearDown" is-config="true" duration-ms="962" started-at="2018-09-18T23:09:53Z" finished-at="2018-09-18T23:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.visaguide.qa.test.VisaGuideTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
